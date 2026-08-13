@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saratnayak05/saratnayak05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sarat
 
-Here are some ideas to get you started:
+Full-stack developer &nbsp;•&nbsp; React / Node.js / PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+### About
+
+Building real-time systems and clean backend architecture — most recently a real-time AI voice agent pipeline (STT / LLM / TTS) using Node.js microservices.  
+Currently open to remote opportunities.
+
+<br>
+
+### Stack
+
+`JavaScript` `React` `Node.js` `Express` `PostgreSQL` `REST APIs`
+
+<br>
+
+### Connect
+
+[Email](mailto:your.email@example.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-handle) &nbsp;·&nbsp; [Portfolio](https://your-portfolio.com)
