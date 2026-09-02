@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140" role="img" aria-labelledby="title desc">
+  <title id="title">software developer</title>
+  <desc id="desc">Soft, light-weight wordmark reading "software developer"</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#9CA3AF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#6B7280" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+        font-weight="300" font-size="48" fill="url(#g)" letter-spacing="1">software developer</text>
+</svg>
